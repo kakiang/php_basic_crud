@@ -3,7 +3,7 @@ header("Cache-Control: no-cache, must-revalidate");
 header("Expires: Sat, 26 Jul 1997 05:00:00 GMT");
 
 $dbHost = 'localhost';
-$dbName = 'testpdo';
+$dbName = 'basic_crud_db';
 $dbUser = 'user'; 
 $dbPass = 'pass'; 
 $charset = 'utf8mb4';
