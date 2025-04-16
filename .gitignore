@@ -1,0 +1,17 @@
+.env
+.env.*.local
+
+# VS Code specific files
+# Ignore workspace settings and state.
+.vscode/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+.Trash-*
+
+# Log Files
+# Ignore common log files and directories.
+*.log
+logs/
