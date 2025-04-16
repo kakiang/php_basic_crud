@@ -26,7 +26,7 @@ Avant d'exécuter cette application, assurez-vous d'avoir les éléments suivant
 
 1.  **Cloner le dépôt (si applicable) ou télécharger les fichiers :**
     ```bash
-    git clone <URL_du_dépôt>
+    git clone git@github.com:kakiang/php_basic_crud.git
     ```
     ou téléchargez le fichier ZIP et extrayez-le.
 
